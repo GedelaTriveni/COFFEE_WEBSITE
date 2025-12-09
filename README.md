@@ -40,7 +40,7 @@ This website is perfect for showcasing a coffee brand, café, or restaurant.
 <img width="1877" height="862" alt="image" src="https://github.com/user-attachments/assets/28527d28-db69-4a48-8dd7-539a2fa6f40f" />
 <img width="1878" height="657" alt="image" src="https://github.com/user-attachments/assets/a6c68cfb-4873-4485-b113-419874564ffe" />
 
-# Testimonals
+# Testimonials
 <img width="1875" height="860" alt="image" src="https://github.com/user-attachments/assets/dc50ef20-1636-4c80-b89c-8569174ed8dd" />
 
 # Gallery
