@@ -1,18 +1,24 @@
-☕ Coffee Shop Website
+# ☕ Coffee Shop Website
 
 A modern, responsive, and elegant Coffee Shop Website built using HTML, CSS, and JavaScript with Swiper.js for an animated testimonial slider.
 This website is perfect for showcasing a coffee brand, café, or restaurant.
 
-🚀 Features :
+# 🚀 Features :
 ✔ Fully Responsive Design
+
 ✔ Modern UI/UX
+
 ✔ Animated Mobile Navigation Menu
+
 ✔ Swiper.js Testimonial Slider
+
 ✔ Smooth Image Hover Effects
+
 ✔ Contact Form Section
+
 ✔ Beautiful Gallery Grid
 
-🛠️ Technologies Used :
+# 🛠️ Technologies Used :
 | Technology       | Purpose                       |
 | ---------------- | ----------------------------- |
 | **HTML5**        | Page structure                |
@@ -22,7 +28,7 @@ This website is perfect for showcasing a coffee brand, café, or restaurant.
 | **Font Awesome** | Icons                         |
 | **Google Fonts** | Custom Typography             |
 
-📸 Project Screenshots :
+# 📸 Project Screenshots :
 
 # Home
 <img width="1873" height="858" alt="image" src="https://github.com/user-attachments/assets/6ba95574-023a-41e6-b92e-3d7664792ae3" />
